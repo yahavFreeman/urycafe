@@ -1,0 +1,8 @@
+{
+    "about":"<h1>About Us</h1><p>We looked at how organizations are implementing and managing Elasticsearch, and decided it is broken.So, we started Uryca with two very clear objectives:</p><ol><li>Easily manage any Elasticsearch anywhere 24/7/365</li><li>Make Elasticsearch the key component organizations use to access their data.</li><p>Join our journey and leverage your data! Contact us.</p>",
+    "team":"<h1>Our Team</h1><p>We are hiring! Want to help people find things? come join us. Elastic experts Junior & Senior, CSMs, PHP & Vue developers. Please send your CV to <a. href='mailto:jobs@uryca.com'>here</a.</p>",
+    "care":"<h1>Uryca Care</h1><p>We manage any Elasticsearch anywhere.On-prem, on-private cloud, on-public cloud or fully hosted.</p><p>We use automation, experience, and care.</p>",
+    "find":"<h1>Urycan Find</h1><p>Setup a central Elasticsearch cluster.Connect the cluster to all your data sources, personal and organizational. Find all the information you need in one place quickly and easily. Bring data from email, chat, crm, erp, sales etc… filter by any original field. Find what you are looking for in notime.</p>",
+    "pricing":"<h1>Pricing</h1><p>We charge $49.99 per month for each server we manage using Uryca.</p>",
+    "software":"<h1>Our Software</h1><p>Uryca agent is a standalone agent that monitors every Elasticsearch node. The agent can report back to ourservers so that we can see the dashboards and receive the alerts. The agent can also be configured to report internally or not report atall.</p>"
+}
